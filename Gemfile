@@ -21,7 +21,7 @@ gem "jbuilder"
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
-gem 'carrierwave', '~> 2.2'
+gem 'carrierwave', '~> 3.1'
 gem 'combine_pdf'
 gem 'prawn'
 gem 'pdf-reader'
